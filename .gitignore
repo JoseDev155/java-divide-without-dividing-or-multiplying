@@ -1,0 +1,21 @@
+# Compilation directories
+/bin/
+/build/
+/target/
+
+# Windows
+Thumbs.db
+
+# Log files
+*.log
+
+# Maven and Gradle configuration files
+/.mvn/
+/.gradle/
+
+# NetBeans configuration files
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
